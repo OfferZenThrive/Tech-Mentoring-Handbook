@@ -13,13 +13,13 @@ This agreement is to help set you up for success as you set out on your mentorin
 
 ### Focus and expectations <a href="#undefined" id="undefined"></a>
 
-* Mentee focus
+* **Mentee focus**
   * As a mentee, what do you want to focus on in the mentoring relationship?
-* Mentor focus
+* **Mentor focus**
   * As the mentor, what do you want to focus on in the mentoring relationship?
-* Mentor expectations
+* **Mentor expectations**
   * What do you expect of your mentee? (e.g. to communicate openly, be open to trying new things, provide regular feedback)
-* Mentee expectations
+* **Mentee expectations**
   * What do you expect of your mentor? (e.g. share experience, provide regular feedback)
 
 ​

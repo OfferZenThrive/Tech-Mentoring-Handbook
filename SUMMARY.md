@@ -21,3 +21,4 @@
   * [Radical Candor](essential-mentoring-resources/giving-and-receiving-feedback/radical-candor.md)
 * [Atomic Habits](essential-mentoring-resources/atomic-habits.md)
 * [Thinking Partnerships](essential-mentoring-resources/thinking-partnerships.md)
+* [Time Management Skills and Strategies](essential-mentoring-resources/time-management-skills-and-strategies.md)
